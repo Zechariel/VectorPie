@@ -1,0 +1,62 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../vectorpie.xml</include>
+
+     <view name="system, basic, detailed, video">
+
+        <image name="logo">
+            <path>./logo.svg</path>
+        </image>
+
+    </view>
+
+    <view name="system, detailed, video">
+
+        <image name="console_overlay" extra="true">
+            <path>./console.svg</path>
+        </image>
+
+    </view>
+
+    <view name="system">
+
+        <image name="background" extra="true">
+            <path>./system1.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <image name="detailed_background" extra="true">
+            <path>./system2.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic">
+
+        <image name="basic_background" extra="true">
+            <path>./../_ass/images/basicbg.png</path>
+        </image>
+
+    </view>
+
+    <view name="detailed, video">
+
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
+        <text name="system_desc" extra="true">
+            <color>000000</color>
+            <text>Steam is a digital distribution platform for video games developed by Valve Corporation.</text>
+        </text>
+
+    </view>
+    
+</theme>
