@@ -1,0 +1,61 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../vectorpie.xml</include>
+
+     <view name="system, basic, detailed, video">
+
+        <image name="logo">
+            <path>./logo.svg</path>
+        </image>
+
+    </view>
+
+    <view name="system, detailed, video">
+
+        <image name="console_overlay" extra="true">
+            <path>./console.png</path>
+        </image>
+
+    </view>
+
+    <view name="system">
+
+        <image name="background" extra="true">
+            <path>./system1.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <image name="detailed_background" extra="true">
+            <path>./system2.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic">
+
+        <image name="basic_background" extra="true">
+            <path>./../_ass/images/basicbg.png</path>
+        </image>
+
+    </view>
+
+    <view name="detailed, video">
+
+        <textlist name="gamelist">
+            <selectorColor>455c0940</selectorColor>
+            <selectedColor>455c09</selectedColor>
+            <primaryColor>455c09</primaryColor>
+        </textlist>
+
+        <text name="system_desc" extra="true">
+            <color>000000</color>
+            <text>The Game Boy was released in North America on July 31, 1989. It displayed a resolution of 160×144 (4 shades of grey).</text>
+        </text>
+
+    </view>
+    
+</theme>
