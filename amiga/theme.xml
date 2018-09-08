@@ -1,0 +1,54 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../vectorpie.xml</include>
+
+     <view name="system, basic, detailed, video">
+
+        <image name="logo">
+            <path>./logo.svg</path>
+        </image>
+
+    </view>
+
+    <view name="system, detailed, video">
+
+        <image name="console_overlay" extra="true">
+            <path>./console.png</path>
+        </image>
+
+    </view>
+
+    <view name="system">
+
+        <image name="background" extra="true">
+            <path>./system1.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <image name="detailed_background" extra="true">
+            <path>./system2.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic">
+
+        <image name="basic_background" extra="true">
+            <path>./../_ass/images/basicbg.png</path>
+        </image>
+
+    </view>
+
+    <view name="detailed, video">
+
+        <text name="system_desc" extra="true">
+            <text>The Amiga 500 was released in North America in October, 1987. It displayed a resolution of 704×484 in overscan mode.</text>
+        </text>
+
+    </view>
+    
+</theme>

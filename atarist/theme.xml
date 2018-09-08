@@ -1,0 +1,72 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../vectorpie.xml</include>
+
+     <view name="system, basic, detailed, video">
+
+        <image name="logo">
+            <path>./logo.svg</path>
+        </image>
+
+    </view>
+
+    <view name="system, detailed, video">
+
+        <image name="console_overlay" extra="true">
+            <path>./console.png</path>
+        </image>
+
+    </view>
+
+    <view name="system">
+
+        <image name="background" extra="true">
+            <path>./system1.png</path>
+        </image>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <image name="detailed_background" extra="true">
+            <path>./system2.png</path>
+        </image>
+
+        <helpsystem name="help">
+            <textColor>000000</textColor>
+            <iconColor>000000</iconColor>
+        </helpsystem>
+
+    </view>
+
+    <view name="basic">
+
+        <image name="basic_background" extra="true">
+            <path>./../_ass/images/basicbg.png</path>
+        </image>
+
+    </view>
+
+    <view name="detailed, video">
+
+        <text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
+            <color>000000</color>
+        </text>
+
+        <text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
+            <color>000000</color>
+        </text>
+
+        <datetime name="md_releasedate, md_lastplayed">
+            <color>000000</color>
+        </datetime>
+
+        <text name="system_desc" extra="true">
+            <color>000000</color>
+            <text>The Atari ST was released in June, 1985. It displayed a resolution of between 320×200 (16 colors), and 640×400 (monochrome).</text>
+        </text>
+
+    </view>
+    
+</theme>
