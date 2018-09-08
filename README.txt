@@ -10,9 +10,9 @@ This theme is designed for 16:9 aspect ratio, optimal 1920x1080.
 
 This theme is designed to work in Basic View, Detailed View, and Video View.
 
-Unfortunately, due to the current state of RetroPie's ES, it seems that you can only have about five systems/categories at once before Emulation Station wets itself, goes home, and refuses to play with you anymore. Or in other words, I believe that the limit is five systems/categories at 250MB VRAM; beyond that comes the "getError"s, resulting in white pages/images. As far as I can tell, it's still this way with all of the graphic heavy themes, E.g. Magazine Madness.
+Unfortunately, due to the current state of RetroPie's ES, it seems that with this theme you can only have about five systems/categories at once before Emulation Station wets itself, goes home, and refuses to play with you anymore. Or in other words, I believe that the limit is five systems/categories at 250MB VRAM; beyond that comes the "getError"s, resulting in white pages/images. As far as I can tell, it's still this way with all of the graphic heavy themes, E.g. Magazine Madness.
 
-Comments, suggestions, problem reports, and requests are always welcome but best left on RetroPie Forum thread: , or the GitHub page: https://github.com/Zechariel/VectorPie
+Comments, suggestions, problem/mistake/error reports, and requests are always welcome but best left on the RetroPie Forum thread: https://retropie.org.uk/forum/topic/19198/new-es-theme-vectorpie-16-9, or the GitHub page: https://github.com/Zechariel/VectorPie
 ___________________________________________________________________________
 
 Consoles Supported;
