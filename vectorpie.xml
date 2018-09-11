@@ -187,6 +187,8 @@ license:        creative commons CC BY-NC-SA 4.0
             <rating name="md_rating">
                 <size>0.140 0.040</size>
                 <pos>0.525 0.595</pos>
+                <filledPath>./_ass/images/star.svg</filledPath>
+                <unfilledPath>./_ass/images/star_hollow.svg</unfilledPath>
             </rating>
 
         <image name="md_marquee">
