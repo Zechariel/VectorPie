@@ -14,7 +14,7 @@ Unfortunately, due to the current state of RetroPie's ES, it seems that with thi
 
 Comments, suggestions, problem/mistake/error reports, and requests are always welcome but best left on the RetroPie Forum thread: https://retropie.org.uk/forum/topic/19198/new-es-theme-vectorpie-16-9, or the GitHub page: https://github.com/Zechariel/VectorPie
 
-Installation: Currently the best way to install VectroPie on a Raspberry Pi is to use Samba shares to connect to your Pi and place the entire contents of the downloaded zip into /opt/retropie/configs/all/emulationstation/themes/VectorPie. If there is not already a folder named "themes" you can simple create one, and of course you will have to create the VectorPie folder as well.
+Installation: Currently the best way to install VectroPie on a Raspberry Pi is to use Samba shares to connect to your Pi and place the entire contents of the downloaded zip into /RETROPIE/configs/all/emulationstation/themes/VectorPie. If there is not already a folder named "themes" you can simply create one, and of course you will have to create the VectorPie folder as well.
 ___________________________________________________________________________
 
 Consoles Supported;
