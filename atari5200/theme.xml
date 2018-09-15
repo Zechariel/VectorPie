@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The Atari 5200 was released in North America in November, 1982. It displayed a resolution of 384×240 in overscan.</text>
         </text>
