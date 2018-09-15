@@ -69,6 +69,11 @@
             <color>000000</color>
         </datetime>
 
+        <rating name="md_rating">
+            <filledPath>./_ass/images/star_black.svg</filledPath>
+            <unfilledPath>./_ass/images/star_black_hollow.svg</unfilledPath>
+        </rating>
+
         <text name="system_desc" extra="true">
             <color>000000</color>
             <text>Since 1986, Batman has starred in multiple video games, most of which were adaptations of the various movies and cartoons.</text>
