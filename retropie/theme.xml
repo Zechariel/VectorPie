@@ -14,7 +14,7 @@
     <view name="system, detailed, video">
 
         <image name="console_overlay" extra="true">
-            <path>./console.png</path>
+            <path>./console.svg</path>
         </image>
 
     </view>
