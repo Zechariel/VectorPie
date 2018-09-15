@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>An arcade game is a coin-operated video game machine typically installed in restaurants, bars, and amusement arcades.</text>
+            <text>An arcade game is a coin-operated video game machine typically installed in amusement arcades.</text>
         </text>
 
     </view>
