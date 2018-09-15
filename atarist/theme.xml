@@ -70,8 +70,8 @@
         </datetime>
 
         <rating name="md_rating">
-            <filledPath>./_ass/images/star_black.svg</filledPath>
-            <unfilledPath>./_ass/images/star_black_hollow.svg</unfilledPath>
+            <filledPath>./../_ass/images/star_black.svg</filledPath>
+            <unfilledPath>./../_ass/images/star_black_hollow.svg</unfilledPath>
         </rating>
 
         <text name="md_description">
