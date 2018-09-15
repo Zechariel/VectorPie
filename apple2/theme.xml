@@ -46,6 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Apple II was released in June, 1977. It displayed a resolution of either 40×48 (16 color), or 280×192 (6 color).</text>
         </text>
 
