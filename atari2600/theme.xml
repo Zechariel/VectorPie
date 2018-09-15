@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The Atari 2600, or Atari Video Computer System before November 1982, was released in North America on September 11, 1977.</text>
+            <text>The Atari 2600 (Atari Video Computer System pre-November 1982), was released in North America on September 11, 1977.</text>
         </text>
 
     </view>
