@@ -26,7 +26,7 @@ license:        creative commons CC BY-NC-SA 4.0
 
             <carousel name="systemcarousel">
                 <pos>0 0.058</pos>
-                <size>1 0.216</size>
+                <size>1 0.218</size>
                 <color>FFFFFF00</color>
                 <logoSize>0.155 1</logoSize>
                 <logoScale>2.5 2.5</logoScale>
@@ -210,7 +210,6 @@ license:        creative commons CC BY-NC-SA 4.0
             <pos>0.872 0.673</pos>
             <origin>0.5 0.5</origin>
             <maxSize>0.199 0.151</maxSize>
-            <path>./console.png</path>
         </image>
 
         <text name="system_desc" extra="true">
