@@ -46,6 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The 3DO was released in North America on October 4, 1993. It displayed an actual resolution of 320×240.</text>
         </text>
 
