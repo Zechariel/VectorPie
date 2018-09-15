@@ -50,6 +50,13 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
             <color>000000</color>
         </text>
@@ -63,9 +70,13 @@
         </datetime>
 
         <rating name="md_rating">
-            <filledPath>./../_ass/images/star_black.svg</filledPath>
-            <unfilledPath>./../_ass/images/star_black_hollow.svg</unfilledPath>
+            <filledPath>./_ass/images/star_black.svg</filledPath>
+            <unfilledPath>./_ass/images/star_black_hollow.svg</unfilledPath>
         </rating>
+
+        <text name="md_description">
+            <color>000000</color>
+        </text>
 
         <text name="system_desc" extra="true">
             <color>000000</color>
