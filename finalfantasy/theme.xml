@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>Final Fantasy is a science fiction and fantasy franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix.</text>
+            <text>Final Fantasy is a science fiction and fantasy franchise created by Hironobu Sakaguchi, developed and owned by Square Enix.</text>
         </text>
 
     </view>
