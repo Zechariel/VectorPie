@@ -33,6 +33,11 @@
             <path>./system2.png</path>
         </image>
 
+        <helpsystem name="help">
+            <textColor>000000</textColor>
+            <iconColor>000000</iconColor>
+        </helpsystem>
+
     </view>
 
     <view name="basic">
@@ -46,7 +51,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text></text>
+            <text>System settings and configuration options for your RetroPie set-up.</text>
         </text>
 
     </view>
