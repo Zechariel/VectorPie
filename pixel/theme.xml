@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>PIXEL (Pi Improved Xwindow Environment, Lightweight) is the desktop for the Raspberry Pi.</text>
+            <text>PIXEL (Pi Improved Xwindow Environment, Lightweight) powered by Rasbian is the desktop for the Raspberry Pi.</text>
         </text>
 
     </view>
