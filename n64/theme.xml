@@ -45,6 +45,13 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
             <text>The Nintendo 64 was released in North America on September 29, 1996. It displayed a resolution of up to 640×480.</text>
         </text>
