@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>Multi Emulator Super System (MESS) is an emulator for many game consoles and computer systems, based on the MAME core.</text>
+            <text>MESS (Multi Emulator Super System) is an emulator for many game consoles and computer systems, based on MAME's core.</text>
         </text>
 
     </view>
