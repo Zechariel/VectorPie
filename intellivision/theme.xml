@@ -45,6 +45,23 @@
 
     <view name="detailed, video">
 
+        <text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
+            <color>000000</color>
+        </text>
+
+        <text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
+            <color>000000</color>
+        </text>
+
+        <datetime name="md_releasedate, md_lastplayed">
+            <color>000000</color>
+        </datetime>
+
+        <rating name="md_rating">
+            <filledPath>./../_ass/images/star_black.svg</filledPath>
+            <unfilledPath>./../_ass/images/star_black_hollow.svg</unfilledPath>
+        </rating>
+
         <text name="system_desc" extra="true">
             <text>The Intellivision was released in North America in 1980. It displayed a resolution of 159×96.</text>
         </text>
