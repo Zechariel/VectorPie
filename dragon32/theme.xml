@@ -33,6 +33,11 @@
             <path>./system2.png</path>
         </image>
 
+        <helpsystem name="help">
+            <textColor>000000</textColor>
+            <iconColor>000000</iconColor>
+        </helpsystem>
+
     </view>
 
     <view name="basic">
@@ -45,7 +50,36 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
+        <text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
+            <color>000000</color>
+        </text>
+
+        <text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
+            <color>000000</color>
+        </text>
+
+        <datetime name="md_releasedate, md_lastplayed">
+            <color>000000</color>
+        </datetime>
+
+        <rating name="md_rating">
+            <filledPath>./../_ass/images/star_black.svg</filledPath>
+            <unfilledPath>./../_ass/images/star_black_hollow.svg</unfilledPath>
+        </rating>
+
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Dragon 32 was released in August, 1982. It displayed a resolution of up to 256×192 in black and white.</text>
         </text>
 
