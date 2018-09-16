@@ -45,7 +45,15 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Oric-1 was released in the United Kingdom on September 1, 1982. It displayed a resolution of 240×200 (8 colors).</text>
         </text>
 
