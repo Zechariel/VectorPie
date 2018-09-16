@@ -45,7 +45,15 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The CD-ROM² System is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988.</text>
         </text>
 
