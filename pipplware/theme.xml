@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>PiPplware is a Linux distribution for Raspberry PI based and 100% compatible with Raspbian. It's free and open source.</text>
+            <text>PiPplware is a Linux distribution for Raspberry PI and is 100% compatible with Raspbian. It's free and open source.</text>
         </text>
 
     </view>
