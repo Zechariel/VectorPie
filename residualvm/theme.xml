@@ -45,6 +45,13 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
             <text>ResidualVM is a cross-platform computer program comprising 3D game engine recreations with a common graphical user interface.</text>
         </text>
