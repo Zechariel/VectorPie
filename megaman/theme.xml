@@ -45,8 +45,16 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
-            <text>Mega Man is a video game franchise created by Capcom, starring the robot character Mega Man, or one of his many counterparts.</text>
+            <color>000000</color>
+            <text>Mega Man is a game franchise created by Capcom, starring the robot character Mega Man, or one of his many counterparts.</text>
         </text>
 
     </view>
