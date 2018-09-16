@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>A light gun is a pointing device for arcade and video games, typically shaped to resemble a pistol.</text>
         </text>
