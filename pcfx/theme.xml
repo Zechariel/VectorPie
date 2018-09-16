@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The NEC PC-FX was released in Japan on December 23, 1994. It displayed max resolutions of 341x240p and 341x480i.</text>
         </text>
