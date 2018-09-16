@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>Nintendo Co., Ltd. is a Japanese consumer electronics and video game company originally founded on September 23, 1889.</text>
         </text>
