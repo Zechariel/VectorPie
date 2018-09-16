@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The Neo Geo Advanced Entertainment System was released in North America on July 1, 1991. It displayed a resolution of 320×224.</text>
+            <text>Neo Geo Advanced Entertainment System was released in North America on July 1, 1991. It displayed a resolution of 320×224.</text>
         </text>
 
     </view>
