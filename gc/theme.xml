@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The GameCube was released in North America on November 18, 2001. Nintendo's entry into the sixth generation of consoles.</text>
         </text>
