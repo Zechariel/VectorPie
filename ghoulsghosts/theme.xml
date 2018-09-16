@@ -54,7 +54,7 @@
 
         <text name="system_desc" extra="true">
             <color>000000</color>
-            <text>Ghouls 'n Ghosts is a side-scrolling platform game developed by Capcom and released as an arcade game in 1988.</text>
+            <text>Ghouls 'n Ghosts is a side-scrolling platform game by Capcom, released as an arcade game in 1988.</text>
         </text>
 
     </view>
