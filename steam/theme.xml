@@ -54,7 +54,7 @@
 
         <text name="system_desc" extra="true">
             <color>000000</color>
-            <text>Steam is a digital distribution platform for video games developed by Valve Corporation.</text>
+            <text>Steam is a digital distribution platform for video games, developed by Valve Corporation.</text>
         </text>
 
     </view>
