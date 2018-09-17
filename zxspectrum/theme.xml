@@ -33,6 +33,11 @@
             <path>./system2.png</path>
         </image>
 
+        <helpsystem name="help">
+            <textColor>000000</textColor>
+            <iconColor>000000</iconColor>
+        </helpsystem>
+
     </view>
 
     <view name="basic">
@@ -46,7 +51,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The ZX Spectrum was released in the United Kingdom on April 23, 1982. It displayed a resolution of 256×192.</text>
+            <text>ZX Spectrum was released in the United Kingdom on April 23, 1982. It displayed a resolution of 256×192.</text>
         </text>
 
     </view>
