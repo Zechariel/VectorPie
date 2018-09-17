@@ -45,7 +45,15 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Commodore VIC-20 was released in North America in 1981. It displayed a resolution of up to 176×184 (3 colors).</text>
         </text>
 
