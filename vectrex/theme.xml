@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The Vectrex was released in North America in November, 1982. It had a monochrome monitor measuring 9 × 11 inches.</text>
+            <text>Vectrex was released in North America in November, 1982. It had a monochrome monitor measuring 9 × 11 inches.</text>
         </text>
 
     </view>
