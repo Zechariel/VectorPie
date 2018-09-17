@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The Star Wars franchise has spawned over one hundred computer, video, and board games, dating back the earliest home consoles.</text>
+            <text>Star Wars has spawned over one hundred computer, video, and board games, dating back the earliest home consoles.</text>
         </text>
 
     </view>
