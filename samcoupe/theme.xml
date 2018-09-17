@@ -45,7 +45,15 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The SAM Coupé was released in 1989. It displayed a resolution of up to 512×192.</text>
         </text>
 
