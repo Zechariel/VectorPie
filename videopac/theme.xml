@@ -45,7 +45,15 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>D8D8D8</secondaryColor>
+        </textlist>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Philips Videopac was released in Europe in December, 1978. It displayed a resolution of 160×200.</text>
         </text>
 
