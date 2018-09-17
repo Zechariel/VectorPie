@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>Infocom was a software company based in Cambridge, Massachusetts that produced numerous games, founded on June 22, 1979.</text>
+            <text>Infocom was a software company based in Cambridge, Massachusetts, founded on June 22, 1979.</text>
         </text>
 
     </view>
