@@ -46,7 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
-            <text>The Virtual Boy was released in North America on August 14, 1995. It had a red monochrome stereoscopic 3D display.</text>
+            <text>Virtual Boy was released in North America on August 14, 1995. It had a red monochrome stereoscopic 3D display.</text>
         </text>
 
     </view>
