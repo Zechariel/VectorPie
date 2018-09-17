@@ -46,6 +46,7 @@
     <view name="detailed, video">
 
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>The Satellaview was released in Japan on April 23, 1995. It was a modem expansion for the Super Famicom.</text>
         </text>
 
