@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>Sonic the Hedgehog is a media franchise created and produced by Sega, first introduced on June 23, 1991.</text>
         </text>
