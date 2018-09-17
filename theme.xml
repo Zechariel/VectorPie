@@ -41,9 +41,35 @@
             <path>./_ass/images/basicbg.png</path>
         </image>
 
+        <image name="logo" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>.5 .095</pos>
+            <maxSize>0.337 0.156</maxSize>
+        </image>
+
+            <text name="logoText">
+                <size>0.337 0.156</size>
+                <origin>0.5 0.5</origin>
+                <pos>.5 .095</pos>
+                <color>00000000</color>
+            </text>
+
     </view>
 
     <view name="detailed, video">
+
+        <image name="logo" extra="true">
+            <pos>0.196 0.128</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>0.337 0.156</maxSize>
+        </image>
+
+            <text name="logoText">
+                <size>0.337 0.156</size>
+                <pos>0.196 0.128</pos>
+                <origin>0.5 0.5</origin>
+                <color>00000000</color>
+            </text>
 
         <text name="system_desc" extra="true">
             <text></text>
