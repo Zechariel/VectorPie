@@ -1,5 +1,5 @@
 ﻿Theme: VectorPie
-Version: 1.1
+Version: 1.2
 By: Zachariel
 Date: 09.08.2018
 E-Mail: zecharael@gmail.com
