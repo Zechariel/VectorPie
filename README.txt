@@ -1,18 +1,18 @@
-Theme: VectorPie
+﻿Theme: VectorPie
 Version: 1.2
 By: Zachariel
 Date: 09.08.2018
 E-Mail: zecharael@gmail.com
 
-For use with RetroPie EmulationStation Fork.
+For use with EmulationStation on RetroPie 4.6 or sooner on a Raspberry Pi 4 2GB and above.
 
 This theme is designed for 16:9 aspect ratio, optimal 1920x1080.
 
 This theme is designed to work in Basic View, Detailed View, and Video View.
 
-Unfortunately, due to the current state of RetroPie's ES, it seems that with this theme you can only have about five systems/categories at once before Emulation Station wets itself, goes home, and refuses to play with you anymore. Or in other words, I believe that the limit is five systems/categories at 250MB VRAM; beyond that comes the "getError"s, resulting in white pages/images.
+Comments, suggestions, problem/mistake/error reports, and requests are always welcome but best left on the RetroPie Forum thread: https://retropie.org.uk/forum/topic/19198/new-es-theme-vectorpie-16-9, or the GitHub page: https://github.com/Zechariel/VectorPie
 
-Installation: The easiest way to install VectroPie on a Raspberry Pi is to use Samba shares to connect to your Pi and place the entire contents of the downloaded zip into /RETROPIE/configs/all/emulationstation/themes/VectorPie. If there is not already a folder named "themes" you can simply create one, and of course you will have to create the VectorPie folder as well.
+Installation: Currently the best way to install VectroPie on a Raspberry Pi is to use Samba shares to connect to your Pi and place the entire contents of the downloaded zip into /RETROPIE/configs/all/emulationstation/themes/VectorPie. If there is not already a folder named "themes" you can simply create one, and of course you will have to create the VectorPie folder as well.
 ___________________________________________________________________________
 
 Consoles Supported;
