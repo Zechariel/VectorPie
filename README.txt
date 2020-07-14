@@ -1,7 +1,7 @@
 ﻿Theme: VectorPie
-Version: 1.2
+Version: 1.3
 By: Zachariel
-Date: 09.08.2018
+Date: 07.14.2020
 E-Mail: zecharael@gmail.com
 
 For use with EmulationStation on RetroPie 4.6 or sooner on a Raspberry Pi 4 2GB and above.
@@ -24,8 +24,10 @@ Atari 5200
 Atari 7800
 Atari Jaguar
 Atari Lynx
+Atomiswave
 Bandai WonderSwan
 Bandai WonderSwan Color
+Cave
 Colecovision
 Fairchild Channel F
 Fairchild Channel F System II
@@ -34,6 +36,7 @@ Magnavox Odyssey
 Magnavox Odyssey²
 Magnavox Videopac
 Magnavox Videopac+
+NAOMI
 NEC PC Engine
 NEC PC Engine CD-ROM²
 NEC PC Engine DUO
@@ -73,6 +76,7 @@ Sega Mega Drive
 Sega Mega Drive (Japan)
 Sega Saturn
 Sega SG-1000
+Sharp x68000
 Sony PlayStation
 Sony PlayStation 2
 Sony PlayStation Portable
