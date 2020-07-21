@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The CP System is an arcade system board developed by Capcom that ran game's stored on removable ROM cartridges.</text>
         </text>
