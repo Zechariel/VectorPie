@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The Game Boy Color was released in North America on November 18, 1998. It displayed a resolution of 160×144.</text>
         </text>
