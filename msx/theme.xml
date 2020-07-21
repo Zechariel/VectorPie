@@ -33,6 +33,11 @@
             <path>./system2.png</path>
         </image>
 
+        <helpsystem name="help">
+            <textColor>000000</textColor>
+            <iconColor>000000</iconColor>
+        </helpsystem>
+
     </view>
 
     <view name="basic">
@@ -44,6 +49,10 @@
     </view>
 
     <view name="detailed, video">
+
+        <text name="md_description">
+            <color>000000</color>
+        </text>
 
         <text name="system_desc" extra="true">
             <text>The Microsoft MSX (MicroSoft eXtended) was released in 1983. It displayed a resolution of 256×192 (16 colors).</text>
