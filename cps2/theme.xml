@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The CP System II is an arcade system board that Capcom first used in 1993 for Super Street Fighter II.</text>
         </text>
