@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The SNES was released in North America on August 23, 1991. It displayed a resolution of 256×244 to 512×448.</text>
         </text>
