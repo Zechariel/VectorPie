@@ -45,6 +45,10 @@
 
     <view name="detailed, video">
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>Capcom Co., Ltd. was founded on May 30, 1979. Capcom is a Japanese video game developer and publisher.</text>
         </text>
