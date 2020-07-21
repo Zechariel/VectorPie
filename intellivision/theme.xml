@@ -62,6 +62,10 @@
             <unfilledPath>./../_ass/images/star_black_hollow.svg</unfilledPath>
         </rating>
 
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
             <text>The Intellivision was released in North America in 1980. It displayed a resolution of 159×96.</text>
         </text>
