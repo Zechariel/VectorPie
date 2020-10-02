@@ -54,7 +54,7 @@
             <selectorColor>00000040</selectorColor>
             <selectedColor>000000</selectedColor>
             <primaryColor>000000</primaryColor>
-            <secondaryColor>D8D8D8</secondaryColor>
+            <secondaryColor>000000</secondaryColor>
         </textlist>
 
         <text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
