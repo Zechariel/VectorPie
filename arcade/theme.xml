@@ -45,7 +45,19 @@
 
     <view name="detailed, video">
 
+        <textlist name="gamelist">
+            <selectorColor>00000040</selectorColor>
+            <selectedColor>000000</selectedColor>
+            <primaryColor>000000</primaryColor>
+            <secondaryColor>000000</secondaryColor>
+        </textlist>
+
+        <text name="md_description">
+            <color>000000</color>
+        </text>
+
         <text name="system_desc" extra="true">
+            <color>000000</color>
             <text>An arcade game is a coin-operated video game machine typically installed in amusement arcades.</text>
         </text>
 
