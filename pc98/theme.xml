@@ -44,9 +44,12 @@
     </view>
 
     <view name="detailed, video">
+    
+        <text name="md_description">
+            <color>000000</color>
+        </text>
 
         <text name="system_desc" extra="true">
-            <color>000000</color>
             <text>The PC-98 computer was first released in October 1982. It displayed a resolution of 640x400 with 16 colors.</text>
         </text>
 
