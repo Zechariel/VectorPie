@@ -74,6 +74,10 @@ license:        creative commons CC BY-NC-SA 4.0
             <iconColor>FFFFFF</iconColor>
         </helpsystem>
 
+        <textlist name="gamelist">
+            <fontPath>./_ass/opensans_hebrew_condensed_regular.ttf</fontPath>
+        </textlist>
+
     </view>
 
     <view name="detailed, video">
